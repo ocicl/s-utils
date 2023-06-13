@@ -1,0 +1,10 @@
+* s-utils
+
+A collection of Common Lisp utilities
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/svenvc/s-utils.git   |
+| commit  | 2cd461d  |
+| systems | s-utils |
+|---------+-------------------------------------------|
+
